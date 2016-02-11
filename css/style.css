@@ -42,11 +42,13 @@ body.noscript .toggle-btn {
 }
 
 header {
+  color: #9F81F7;
   padding: 0 1em;
   position: relative;
 }
 
 .toggle-btn {
+  color: #9F81F7;
   position: absolute;
   right: 1em;
   top: 0;
@@ -74,7 +76,6 @@ header {
 
 .toggle-btn,
 .close-btn {
-  color: #ccc;
   text-decoration: none;
   height: 40px;
   width: 40px;
@@ -100,6 +101,7 @@ header {
 
 .close-btn {
   margin: 1em;
+  color: #9F81F7;
 }
 
 /**

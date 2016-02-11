@@ -29,11 +29,13 @@ body{
 }
 
 header {
+  color: $purple;
   padding: 0 1em;
   position: relative;
 }
 
 .toggle-btn {
+    color: $purple;
     position: absolute;
     right: 1em;
     top: 0;
@@ -60,7 +62,6 @@ header {
 
 .toggle-btn,
 .close-btn{
-    color: $light-grey;
     text-decoration: none;
     height: 40px;
     width: 40px;
@@ -78,6 +79,7 @@ header {
 
 .close-btn{
     margin: 1em;
+    color: $purple;
 }
 
 /**
