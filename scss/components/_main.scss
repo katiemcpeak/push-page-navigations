@@ -133,6 +133,15 @@ body.noscript .navigation{
     background-color: $purple;
 }
 
+.home:hover,
+.home:active,
+.home:focus {
+    background-color: $purple;
+    color: #fff;
+}
+
+
+
 
     
     

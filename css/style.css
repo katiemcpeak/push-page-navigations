@@ -149,3 +149,10 @@ body.noscript .navigation {
   right: auto;
   background-color: #9F81F7;
 }
+
+.home:hover,
+.home:active,
+.home:focus {
+  background-color: #9F81F7;
+  color: #fff;
+}
