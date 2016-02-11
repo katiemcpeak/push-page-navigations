@@ -163,3 +163,10 @@ body.noscript .navigation {
   background-color: #9F81F7;
   color: #fff;
 }
+
+.portfolio:hover,
+.portfolio:active,
+.portfolio:focus {
+  background-color: #9F81F7;
+  color: #fff;
+}

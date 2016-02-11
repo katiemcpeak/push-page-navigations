@@ -147,6 +147,13 @@ body.noscript .navigation{
     color: #fff;
 }
 
+.portfolio:hover,
+.portfolio:active,
+.portfolio:focus {
+    background-color: $purple;
+    color: #fff;
+}
+
 
 
 
