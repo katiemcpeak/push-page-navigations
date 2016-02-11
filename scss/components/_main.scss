@@ -10,6 +10,7 @@ html {
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
 	text-size-adjust: 100%;
+    font-family: $poiret;
 }
 
 
@@ -60,7 +61,7 @@ header {
 
 .toggle-btn,
 .close-btn{
-    color: $text-color;
+    color: $light-grey;
     text-decoration: none;
     height: 40px;
     width: 40px;
