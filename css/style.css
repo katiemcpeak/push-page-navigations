@@ -170,3 +170,10 @@ body.noscript .navigation {
   background-color: #9F81F7;
   color: #fff;
 }
+
+.contact:hover,
+.contact:active,
+.contact:focus {
+  background-color: #9F81F7;
+  color: #fff;
+}
