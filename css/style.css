@@ -156,3 +156,10 @@ body.noscript .navigation {
   background-color: #9F81F7;
   color: #fff;
 }
+
+.about:hover,
+.about:active,
+.about:focus {
+  background-color: #9F81F7;
+  color: #fff;
+}
